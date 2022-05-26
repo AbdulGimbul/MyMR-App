@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abdl">Muhamad Abdul Aziz</string>
+    <string name="email">azizgimboell@gmail.com</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_map">Maps</string>
+    <string name="menu_hotel">Hotel</string>
+    <string name="menu_subway">Menu</string>
+    <string name="menu_event">Event</string>
+    <string name="notification">Notification</string>
+    <string name="menu_discuss">Diskusi</string>
+    <string name="menu_media">Media</string>
+    <string name="menu_store">Marketplace</string>
+    <string name="searh">Pencarian</string>
+    <string name="search_hint">Cari sesuatu..</string>
+    <string name="menu_setting">Pengaturan</string>
+    <string name="menu_help">Pusat Bantuan</string>
+    <string name="menu_logout">Logout</string>
+</resources>
